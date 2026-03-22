@@ -37,4 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 "# new-tube" 
 
 To Follow tutorial you need:
-clerk version: bun add @clerk/nextjs@4
+clerk version: bun add @clerk/nextjs@6.10.3
+Next JS Version: "15.1.11"
+ 
